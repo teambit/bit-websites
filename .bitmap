@@ -9,35 +9,5 @@
  */
 
 {
-    "templates/envs/my-react": {
-        "scope": "",
-        "version": "",
-        "mainFile": "index.ts",
-        "rootDir": "templates/envs/my-react"
-    },
-    "templates/pages/welcome": {
-        "scope": "",
-        "version": "",
-        "mainFile": "index.ts",
-        "rootDir": "templates/pages/welcome"
-    },
-    "templates/ui/card": {
-        "scope": "",
-        "version": "",
-        "mainFile": "index.ts",
-        "rootDir": "templates/ui/card"
-    },
-    "templates/ui/heading": {
-        "scope": "",
-        "version": "",
-        "mainFile": "index.ts",
-        "rootDir": "templates/ui/heading"
-    },
-    "templates/ui/text": {
-        "scope": "",
-        "version": "",
-        "mainFile": "index.ts",
-        "rootDir": "templates/ui/text"
-    },
     "$schema-version": "14.9.0"
 }
